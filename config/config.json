@@ -1,0 +1,12 @@
+{
+    "mongodb":{
+        "localhost":{
+            "user": "",
+            "password": "",
+            "host": "localhost",
+            "port": 27017,
+            "database" : "newcmsdb",
+            "dialect":"mongodb"
+        }
+    }
+}
